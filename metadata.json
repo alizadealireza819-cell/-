@@ -1,0 +1,6 @@
+{
+  "name": "Professional Calculator",
+  "description": "A beautiful, advanced scientific calculator with expression evaluation, complete calculation history, constants, unit functions, and a tactile interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
